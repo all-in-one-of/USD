@@ -1,3 +1,4 @@
+# [https://github.com/all-in-one-of/USD/tree/master/third_party/houdini/plugin/OP_gusd](https://github.com/all-in-one-of/USD/tree/master/third_party/houdini/plugin/OP_gusd)
 Universal Scene Description
 ===========================
 
